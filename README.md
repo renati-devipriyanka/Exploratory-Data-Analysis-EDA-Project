@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-EDA-Project
-# Exploratory Data Analysis (EDA)
+
 
 This project focuses on performing Exploratory Data Analysis using Python to understand and extract meaningful insights from a dataset.
 
